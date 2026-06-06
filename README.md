@@ -1,8 +1,7 @@
 # Hi, I'm Vansh Khanna
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vanshkhanna416-blue?logo=linkedin)](https://www.linkedin.com/in/vanshkhanna416)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamvanshkhanna-blue?logo=linkedin)](https://www.linkedin.com/in/iamvanshkhanna)
 [![GitHub](https://img.shields.io/badge/GitHub-IamVanshKhanna-black?logo=github)](https://github.com/IamVanshKhanna)
-[![Email](https://img.shields.io/badge/Email-vanshkhanna416%40gmail.com-red?logo=gmail)](mailto:vanshkhanna416@gmail.com)
 
 ---
 
@@ -123,8 +122,7 @@ March 2023 – June 2023
 
 ## Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/vanshkhanna416](https://www.linkedin.com/in/vanshkhanna416)
-- **Email:** [vanshkhanna416@gmail.com](mailto:vanshkhanna416@gmail.com)
+- **LinkedIn:** [linkedin.com/in/iamvanshkhanna](https://www.linkedin.com/in/iamvanshkhanna)
 - **Location:** Melbourne, Victoria, Australia
 
 ---
