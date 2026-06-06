@@ -32,10 +32,11 @@ I am actively seeking **graduate roles and cybersecurity-focused opportunities**
 - **WireGuard** — VPN configuration and network tunnelling
 - **Prometheus & Grafana** — monitoring and observability
 - **Traefik** — reverse proxy and TLS management
-- **Git & GitHub** — version control and collaborative development
+- **Git & GitHub** — version control, Agile workflows, and collaborative development
 
 ### Domain Skills
-- **Cybersecurity** — network security, cryptography, penetration testing principles, secure coding
+- **Cybersecurity** — web application security assessments, vulnerability documentation, threat analysis, secure coding
+- **Penetration testing** — structured security reviews, remediation verification
 - **Concurrent & parallel programming** — OpenMP, MPI, pthreads (C++)
 - **IT project management** — Agile coordination, stakeholder communication, compliance alignment
 - **Embedded systems & IoT** — sensor integration, cloud telemetry (Arduino IoT Cloud, IFTTT)
@@ -99,6 +100,14 @@ Chitkara University · Chandigarh, India
 March 2025 – June 2025
 - Supported delivery of IT infrastructure and digital transformation projects across frontline and administrative sites, coordinating between technical teams, vendors, and on-site stakeholders.
 - Assisted with compliance tracking, project documentation, and stakeholder communication in alignment with PMO standards.
+
+**Junior Software Developer (Cybersecurity) — Intern**
+*Visual Link IT Pty Ltd · Remote*
+July 2024 – October 2024
+- Conducted security assessments of client web applications, identifying and documenting 5+ vulnerabilities through structured reviews and basic threat analysis.
+- Collaborated with developers to clarify remediation requirements and verify fixes met security and functional expectations.
+- Operated in a remote Agile environment using Git, sprint planning tools, and asynchronous communication.
+- Gained hands-on experience applying secure coding principles, vulnerability documentation, and professional IT development practices.
 
 **Capstone Team Project (B) — Senior Project Co-Lead**
 *Hardhat Enterprises (Deakin SIT378) · Burwood East, Victoria*
