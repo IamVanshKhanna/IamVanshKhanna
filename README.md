@@ -1,7 +1,7 @@
 # Hi, I'm Vansh Khanna
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamvanshkhanna-blue?logo=linkedin)](https://www.linkedin.com/in/iamvanshkhanna)
-[![GitHub](https://img.shields.io/badge/GitHub-IamVanshKhanna-black?logo=github)](https://github.com/IamVanshKhanna)
+[![GitHub](https://img.shields.io/badge/GitHub-iamvanshkhanna-black?logo=github)](https://github.com/IamVanshKhanna)
 
 ---
 
