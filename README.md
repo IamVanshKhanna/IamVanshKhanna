@@ -3,6 +3,8 @@
 **Software Engineering Graduate · Cybersecurity Minor · Melbourne, AU**
 Building AI tooling & homelabs. Seeking Grad Software / Security / Service Desk roles.
 
+> 🔭 Currently building **devpilot** (AI code-review agent) and a 24/7 self-hosted homelab with Tailscale + Docker.
+
 🎓 B.E. Software Engineering (Hons) + Cybersecurity Minor — Deakin University
 📍 Melbourne, Australia · 🛂 Visa 485 (work rights to Oct 2027)
 🔗 [LinkedIn](https://www.linkedin.com/in/iamvanshkhanna) · ✉️ open to opportunities
