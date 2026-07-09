@@ -1,139 +1,32 @@
-# Hi, I'm Vansh Khanna
+# Hi, I'm Vansh Khanna 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamvanshkhanna-blue?logo=linkedin)](https://www.linkedin.com/in/iamvanshkhanna)
-[![GitHub](https://img.shields.io/badge/GitHub-iamvanshkhanna-black?logo=github)](https://github.com/IamVanshKhanna)
+**Software Engineering Graduate · Cybersecurity Minor · Melbourne, AU**
+Building AI tooling & homelabs. Seeking Grad Software / Security / Service Desk roles.
 
----
+🎓 B.E. Software Engineering (Hons) + Cybersecurity Minor — Deakin University
+📍 Melbourne, Australia · 🛂 Visa 485 (work rights to Oct 2027)
+🔗 [LinkedIn](https://www.linkedin.com/in/iamvanshkhanna) · ✉️ open to opportunities
 
-## About Me
+## 🔧 Tech I Work With
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-004471?logo=tailscale&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+`Penetration Testing` · `DevOps` · `AI/LLM tooling`
 
-I am a Bachelor of Software Engineering (Honours) graduate from **Deakin University**, Melbourne, with a minor in **Cybersecurity** (2022–2025). My academic focus spans secure software development, network security, penetration testing, and concurrent programming, complemented by hands-on coursework in embedded systems and IoT.
+## 🚀 Featured Projects
+- **[devpilot](https://github.com/IamVanshKhanna/devpilot)** — AI code-review agent (TypeScript) that flags bugs & style issues pre-PR. *Standout technical depth (MVP, CI-enabled).*
+- **[homelab-ops-mesh](https://github.com/IamVanshKhanna/homelab-ops-mesh)** — Astro + Tailscale/Docker homelab for self-hosted ops. *Strongest DevOps/SRE signal.*
+- **[raspi-devops-homelab](https://github.com/IamVanshKhanna/raspi-devops-homelab)** — 24/7 Raspberry Pi homelab (Docker, Tailscale, self-hosted services).
+- **[vansh-local-ai-stack](https://github.com/IamVanshKhanna/vansh-local-ai-stack)** — Python LLM/AI tooling stack for local inference.
+- **[deakin-coursework](https://github.com/IamVanshKhanna/deakin-coursework)** — Consolidated Deakin uni coursework (archived).
 
-My primary technical interests lie at the intersection of **cybersecurity and software engineering** — specifically ethical hacking, secure system design, and infrastructure hardening. I am currently completing the ACS-affiliated ICT Professional Year programme to bridge my academic foundations with industry practice.
+## 💬 Ask Me About
+Automating the boring bits, self-hosting with Tailscale, AI-assisted code review, and breaking into grad cyber roles from a SWE background.
 
-I use GitHub to document my academic projects, coursework assignments, and personal technical experiments. The repositories here reflect my progression through Deakin's software engineering curriculum alongside independent infrastructure and security-oriented projects I build to deepen practical skills.
-
-I am actively seeking **graduate roles and cybersecurity-focused opportunities** in Melbourne and remotely, where I can contribute to security engineering, IT project delivery, or DevSecOps teams.
-
----
-
-## Skills
-
-### Programming Languages & Tools
-- **C / C++** — coursework across multiple Deakin units (OOP, concurrency, IoT)
-- **HTML5 / CSS3 / JavaScript** — collaborative web development projects
-- **Shell / Bash** — homelab automation and Docker Compose scripting
-- **Python** — currently exploring; used in automation scripts
-
-### Platforms & Frameworks
-- **Docker & Docker Compose** — containerised homelab services
-- **Raspberry Pi / Arduino** — embedded systems and IoT prototyping
-- **Linux (Debian/Ubuntu)** — server administration and homelab environment
-- **WireGuard** — VPN configuration and network tunnelling
-- **Prometheus & Grafana** — monitoring and observability
-- **Traefik** — reverse proxy and TLS management
-- **Git & GitHub** — version control, Agile workflows, and collaborative development
-
-### Domain Skills
-- **Cybersecurity** — web application security assessments, vulnerability documentation, threat analysis, secure coding
-- **Penetration testing** — structured security reviews, remediation verification
-- **Concurrent & parallel programming** — OpenMP, MPI, pthreads (C++)
-- **IT project management** — Agile coordination, stakeholder communication, compliance alignment
-- **Embedded systems & IoT** — sensor integration, cloud telemetry (Arduino IoT Cloud, IFTTT)
-- **Infrastructure automation** — learning; Renovate-based dependency automation implemented
-- **Digital transformation support** — practical exposure from IT PMO internship
-
----
-
-## Projects
-
-### [raspi-devops-homelab](https://github.com/IamVanshKhanna/raspi-devops-homelab)
-A self-hosted, 24/7 homelab running on a Raspberry Pi 4B with a 2TB SSD, deploying a full production-style service stack.
-- **Technologies:** Docker, Traefik, Nextcloud, Vaultwarden, WireGuard, Pi-hole, Home Assistant, Ollama, Prometheus, Grafana, Renovate
-- Designed and deployed the full stack using Docker Compose; configured Traefik as a reverse proxy with TLS; implemented WireGuard for secure remote access; set up Prometheus and Grafana dashboards for real-time monitoring; automated dependency updates with Renovate.
-- Directly applies network security principles (VPN, DNS filtering, access control) and DevOps practices studied in my cybersecurity minor.
-
-### [Group-4-Project](https://github.com/IamVanshKhanna/Group-4-Project)
-A collaborative web development project completed as part of a second-year unit at Deakin University, iterated across three versions (Ver-1.0 to Ver-3.0).
-- **Technologies:** HTML5, CSS3, JavaScript
-- Contributed to UI design, page structure, and progressive enhancement across three release iterations in a three-person team; managed version history via Git.
-- Demonstrates collaborative software development workflow and iterative delivery aligned with my capstone project leadership experience.
-
-### [SIT315 — Programming Paradigms](https://github.com/IamVanshKhanna/SIT315)
-Coursework repository for SIT315 at Deakin University (4th semester), covering core programming paradigms in C++.
-- **Technologies:** C++, OpenMP, MPI, pthreads
-- Implemented object-oriented, generic, concurrent, and functional programming patterns; explored parallel processing using shared-memory (OpenMP/pthreads) and distributed-memory (MPI) models.
-- Concurrent and parallel programming is foundational for secure, performant software systems.
-
-### [SIT210 — Arduino IoT Cloud Temperature Monitor](https://github.com/IamVanshKhanna/SIT210-Task3.1P-Arduino-IoT-Cloud)
-A real-time temperature monitor with a visual indicator, deployed using Arduino Nano 33 IoT and Arduino IoT Cloud.
-- **Technologies:** C++, Arduino Nano 33 IoT, Arduino IoT Cloud
-- Programmed a sensor-driven monitoring system that streams live temperature data to the cloud and triggers visual alerts based on threshold values.
-- Demonstrates embedded systems and IoT cloud integration skills from Deakin's SIT210 unit.
-
-### [SIT210 — Embedded Systems Task Series](https://github.com/IamVanshKhanna?tab=repositories&q=SIT210)
-A series of embedded systems assignments covering Raspberry Pi GPIO control, IFTTT cloud notifications, LED GUI interfaces, and Morse code output on Arduino.
-- **Technologies:** C++, Raspberry Pi, Arduino Nano 33 IoT, IFTTT
-- Builds practical IoT and hardware-software interfacing skills relevant to cybersecurity at the physical layer.
-
----
-
-## Education & Experience
-
-### Education
-
-**Bachelor of Software Engineering (Honours)**
-*Cybersecurity Minor*
-Deakin University · Melbourne, Victoria, Australia
-2022 – 2025
-
-**Bachelor of Computer Science (B.Tech) — Transferred**
-Chitkara University · Chandigarh, India
-2020 – 2022
-
----
-
-### Experience
-
-**Technical Coordinator — IT PMO Intern**
-*The Salvation Army · Blackburn, Victoria*
-March 2025 – June 2025
-- Supported delivery of IT infrastructure and digital transformation projects across frontline and administrative sites, coordinating between technical teams, vendors, and on-site stakeholders.
-- Assisted with compliance tracking, project documentation, and stakeholder communication in alignment with PMO standards.
-
-**Junior Software Developer (Cybersecurity) — Intern**
-*Visual Link IT Pty Ltd · Remote*
-July 2024 – October 2024
-- Conducted security assessments of client web applications, identifying and documenting 5+ vulnerabilities through structured reviews and basic threat analysis.
-- Collaborated with developers to clarify remediation requirements and verify fixes met security and functional expectations.
-- Operated in a remote Agile environment using Git, sprint planning tools, and asynchronous communication.
-- Gained hands-on experience applying secure coding principles, vulnerability documentation, and professional IT development practices.
-
-**Capstone Team Project (B) — Senior Project Co-Lead**
-*Hardhat Enterprises (Deakin SIT378) · Burwood East, Victoria*
-July 2023 – October 2023
-- Led a cybersecurity-focused capstone team of 45+ members, overseeing project planning, task allocation, and delivery milestones.
-- Deepened applied cybersecurity skills while managing partner relationships and producing formal project reports.
-
-**Capstone Team Project (A) — Junior Project Co-Lead**
-*Hardhat Enterprises (Deakin SIT374) · Burwood, Victoria*
-March 2023 – June 2023
-- Coordinated a team of 30+ members on a cybersecurity initiative, contributing to task management, team cohesion, and upskilling in security concepts.
-- Facilitated regular team meetings and collaborated on solution design and documentation.
-
-**Design Internship**
-*Chitkara University · Chandigarh, India*
-2021 – 2022
-- Collaborated with lab supervisors and senior students on design prototyping and concept development.
-- Gained experience in project coordination, iterative design, and working within structured team environments.
-
----
-
-## Get in Touch
-
-- **LinkedIn:** [linkedin.com/in/iamvanshkhanna](https://www.linkedin.com/in/iamvanshkhanna)
-- **Location:** Melbourne, Victoria, Australia
-
----
-
-*This profile is a living document — updated as I complete new projects and units.*
+## 📫 How to Reach Me
+LinkedIn → linkedin.com/in/iamvanshkhanna · I read DMs and connection notes.
