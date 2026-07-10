@@ -1,7 +1,7 @@
 # Hi, I'm Vansh Khanna 👋
 
 **Software Engineering Graduate · Cybersecurity Minor · Melbourne, AU**
-Building AI tooling & homelabs. Seeking Grad Software / Security / Service Desk roles.
+Building AI tooling & homelabs. Seeking Grad Software Engineering / Application Security roles.
 
 > 🔭 Currently building **devpilot** (AI code-review agent) and a 24/7 self-hosted homelab with Tailscale + Docker.
 
