@@ -21,8 +21,8 @@ Building AI tooling & homelabs. Seeking Grad Software / Security / Service Desk 
 `Penetration Testing` · `DevOps` · `AI/LLM tooling`
 
 ## 🚀 Featured Projects
-- **[devpilot](https://github.com/IamVanshKhanna/devpilot)** — AI code-review agent (TypeScript) that flags bugs & style issues pre-PR. *Standout technical depth (MVP, CI-enabled).*
-- **[homelab-ops-mesh](https://github.com/IamVanshKhanna/homelab-ops-mesh)** — Astro + Tailscale/Docker homelab for self-hosted ops. *Strongest DevOps/SRE signal.*
+- **[devpilot](https://github.com/IamVanshKhanna/devpilot)** — AI code-review agent (TypeScript) that flags bugs & style issues pre-PR.
+- **[homelab-ops-mesh](https://github.com/IamVanshKhanna/homelab-ops-mesh)** — Astro + Tailscale/Docker homelab for self-hosted ops.
 - **[raspi-devops-homelab](https://github.com/IamVanshKhanna/raspi-devops-homelab)** — 24/7 Raspberry Pi homelab (Docker, Tailscale, self-hosted services).
 - **[vansh-local-ai-stack](https://github.com/IamVanshKhanna/vansh-local-ai-stack)** — Python LLM/AI tooling stack for local inference.
 - **[deakin-coursework](https://github.com/IamVanshKhanna/deakin-coursework)** — Consolidated Deakin uni coursework (archived).
