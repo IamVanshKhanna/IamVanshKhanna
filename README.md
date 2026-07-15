@@ -3,7 +3,7 @@
 **Software Engineering Graduate · Cybersecurity Minor · Melbourne, AU**
 Building AI tooling & homelabs. Seeking Grad Software Engineering / Application Security roles.
 
-> 🔭 Currently building **devpilot** (AI code-review agent) and a 24/7 self-hosted homelab with Tailscale + Docker.
+> 🔭 Currently building **devpilot** (AI code-review agent) and a 24/7 self-hosted homelab with self-hosted mesh (Headscale) + Docker.
 
 🎓 B.E. Software Engineering (Hons) + Cybersecurity Minor — Deakin University
 📍 Melbourne, Australia · 🛂 Visa 485 (work rights to Oct 2027)
@@ -22,8 +22,7 @@ Building AI tooling & homelabs. Seeking Grad Software Engineering / Application 
 
 ## 🚀 Featured Projects
 - **[devpilot](https://github.com/IamVanshKhanna/devpilot)** — AI code-review agent (TypeScript) that flags bugs & style issues pre-PR.
-- **[homelab-ops-mesh](https://github.com/IamVanshKhanna/homelab-ops-mesh)** — Astro + Tailscale/Docker homelab for self-hosted ops.
-- **[raspi-devops-homelab](https://github.com/IamVanshKhanna/raspi-devops-homelab)** — 24/7 Raspberry Pi homelab (Docker, Tailscale, self-hosted services).
+- **[pi-utility-server](https://github.com/IamVanshKhanna/pi-utility-server)** — self-hosted homelab: Raspberry Pi, self-hosted mesh (Headscale), git, monitoring — built big, then deliberately cut in half.
 - **[vansh-local-ai-stack](https://github.com/IamVanshKhanna/vansh-local-ai-stack)** — Python LLM/AI tooling stack for local inference.
 - **[deakin-coursework](https://github.com/IamVanshKhanna/deakin-coursework)** — Consolidated Deakin uni coursework (archived).
 
