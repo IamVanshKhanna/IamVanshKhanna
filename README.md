@@ -22,6 +22,7 @@ Building AI tooling & homelabs. Seeking Grad Software Engineering / Application 
 
 ## 🚀 Featured Projects
 - **[devpilot](https://github.com/IamVanshKhanna/devpilot)** — AI code-review agent (TypeScript) that flags bugs & style issues pre-PR.
+- **[sentinel-scan](https://github.com/IamVanshKhanna/sentinel-scan)** — CLI that scans a repo for hardcoded secrets and known-vulnerable dependencies, tested cross-platform (macOS/Linux/Windows).
 - **[pi-utility-server](https://github.com/IamVanshKhanna/pi-utility-server)** — self-hosted homelab: Raspberry Pi, self-hosted mesh (Headscale), git, monitoring — built big, then deliberately cut in half.
 - **[vansh-local-ai-stack](https://github.com/IamVanshKhanna/vansh-local-ai-stack)** — Python LLM/AI tooling stack for local inference.
 - **[deakin-coursework](https://github.com/IamVanshKhanna/deakin-coursework)** — Consolidated Deakin uni coursework (archived).
