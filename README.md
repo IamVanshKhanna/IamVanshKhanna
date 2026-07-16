@@ -21,11 +21,11 @@ Building AI tooling & homelabs. Seeking Grad Software Engineering / Application 
 `Penetration Testing` · `DevOps` · `AI/LLM tooling`
 
 ## 🚀 Featured Projects
-- **[devpilot](https://github.com/IamVanshKhanna/devpilot)** — AI code-review agent (TypeScript) that flags bugs & style issues pre-PR.
-- **[sentinel-scan](https://github.com/IamVanshKhanna/sentinel-scan)** — CLI that scans a repo for hardcoded secrets and known-vulnerable dependencies, tested cross-platform (macOS/Linux/Windows).
+- **[devpilot](https://github.com/IamVanshKhanna/devpilot)** — AI-powered PR review bot: general code quality, bugs, style (product engineering — full-stack GitHub App).
+- **[sentinel-scan](https://github.com/IamVanshKhanna/sentinel-scan)** — Deterministic security scanner: hardcoded secrets & CVE dependencies (AppSec — no AI, just detection engineering, tested cross-platform).
 - **[pi-utility-server](https://github.com/IamVanshKhanna/pi-utility-server)** — self-hosted homelab: Raspberry Pi, self-hosted mesh (Headscale), git, monitoring — built big, then deliberately cut in half.
+- **[digital-operations-analytics](https://github.com/IamVanshKhanna/digital-operations-analytics)** — multi-source ops analytics dashboard: support, infrastructure, and hiring data, cleaned and correlated (Python, pandas).
 - **[vansh-local-ai-stack](https://github.com/IamVanshKhanna/vansh-local-ai-stack)** — Python LLM/AI tooling stack for local inference.
-- **[deakin-coursework](https://github.com/IamVanshKhanna/deakin-coursework)** — Consolidated Deakin uni coursework (archived).
 
 ## 💬 Ask Me About
 Automating the boring bits, self-hosting with Tailscale, AI-assisted code review, and breaking into grad cyber roles from a SWE background.
