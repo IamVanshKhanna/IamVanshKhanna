@@ -1,34 +1,20 @@
-# Hi, I'm Vansh Khanna 👋
+# Hi, I'm Vansh Khanna
 
-**Software Engineering Graduate · Cybersecurity Minor · Melbourne, AU**
-Building AI tooling & homelabs. Seeking Grad Software Engineering / Application Security roles.
+Software Engineering (Honours) graduate with a Cybersecurity minor, based in Melbourne. I'm looking for graduate software engineering and application security roles. I build security tooling, full-stack prototypes and small self-hosted systems.
 
-> 🔭 Currently building **devpilot** (AI code-review agent) and a 24/7 self-hosted homelab with self-hosted mesh (Headscale) + Docker.
+[LinkedIn](https://www.linkedin.com/in/iamvanshkhanna) | [Repositories](https://github.com/IamVanshKhanna?tab=repositories)
 
-🎓 B.E. Software Engineering (Hons) + Cybersecurity Minor — Deakin University
-📍 Melbourne, Australia · 🛂 Visa 485 (work rights to Oct 2027)
-🔗 [LinkedIn](https://www.linkedin.com/in/iamvanshkhanna) · ✉️ open to opportunities
+## Featured projects
 
-## 🔧 Tech I Work With
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-004471?logo=tailscale&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-`Penetration Testing` · `DevOps` · `AI/LLM tooling`
+- **[sentinel-scan](https://github.com/IamVanshKhanna/sentinel-scan)** - a Python CLI that checks repositories for hardcoded secrets and vulnerable dependencies, produces a scored report and has automated tests in CI.
+- **[devpilot](https://github.com/IamVanshKhanna/devpilot)** - a pre-launch prototype for AI-assisted GitHub pull-request reviews. Its README distinguishes working code from planned features and placeholders.
 
-## 🚀 Featured Projects
-- **[devpilot](https://github.com/IamVanshKhanna/devpilot)** — AI-powered PR review bot: general code quality, bugs, style (product engineering — full-stack GitHub App).
-- **[sentinel-scan](https://github.com/IamVanshKhanna/sentinel-scan)** — Deterministic security scanner: hardcoded secrets & CVE dependencies (AppSec — no AI, just detection engineering, tested cross-platform).
-- **[pi-utility-server](https://github.com/IamVanshKhanna/pi-utility-server)** — self-hosted homelab: Raspberry Pi, self-hosted mesh (Headscale), git, monitoring — built big, then deliberately cut in half.
-- **[digital-operations-analytics](https://github.com/IamVanshKhanna/digital-operations-analytics)** — multi-source ops analytics dashboard: support, infrastructure, and hiring data, cleaned and correlated (Python, pandas).
-- **[vansh-local-ai-stack](https://github.com/IamVanshKhanna/vansh-local-ai-stack)** — Python LLM/AI tooling stack for local inference.
+Also see [digital-operations-analytics](https://github.com/IamVanshKhanna/digital-operations-analytics) for Python/pandas analysis and [pi-utility-server](https://github.com/IamVanshKhanna/pi-utility-server) for Docker and Raspberry Pi homelab work.
 
-## 💬 Ask Me About
-Automating the boring bits, self-hosting with Tailscale, AI-assisted code review, and breaking into grad cyber roles from a SWE background.
+## Skills
 
-## 📫 How to Reach Me
-LinkedIn → linkedin.com/in/iamvanshkhanna · I read DMs and connection notes.
+Python, TypeScript, Linux, GitHub Actions, Docker, application security and data analysis.
+
+## Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/iamvanshkhanna).
